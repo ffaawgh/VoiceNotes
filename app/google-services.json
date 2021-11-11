@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "159366827448",
+    "project_id": "vnotes-4a73d",
+    "storage_bucket": "vnotes-4a73d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159366827448:android:0bc60e45440d25350c134d",
+        "android_client_info": {
+          "package_name": "com.example.voicenotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159366827448-cdkn9e85lvcbrkcokqu3fcmkk46iib8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.voicenotes",
+            "certificate_hash": "e9175fe8941bc30dba08afce8f79347f9733f08d"
+          }
+        },
+        {
+          "client_id": "159366827448-riifcljeohcebuj61ikbn32mqmp89qhp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI7Rk-ZaGp2oswA8NA4hpH3iIjc9UIZfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159366827448-riifcljeohcebuj61ikbn32mqmp89qhp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

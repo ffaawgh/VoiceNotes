@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VoiceNotes</string>
+    <string name="no_account">Нет аккаунта? <b>Зарегистрироваться</b></string>
+    <string name="have_account">Уже есть аккаунт? <b>Войти</b></string>
+    <string name="logout_account">Уже уходите? <b>Выйти</b></string>
+    <string name="create_notes"><b>Создать заметку</b></string>
+    <string name="all_notes"><b>Все заметки</b></string>
+    <string name="nameNote">Название</string>
+    <string name="textNote">Ваша заметка</string>
+</resources>
